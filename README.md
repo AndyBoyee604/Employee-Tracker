@@ -13,7 +13,7 @@ JavaScript | Node | npm
 4. In terminal, run "npm start" to start the app
 
 ## Demo
-![]()
+![](https://github.com/AndyBoyee604/Employee-Tracker/blob/main/Demo/Employee-Tracker-Nou.gif)
 
 ## Sources Referenced
 [Google](https://www.google.com) |
